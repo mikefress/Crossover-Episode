@@ -16,8 +16,9 @@ const Container = styled.div`
 `
 const Title = styled.h1`
   font-size: 4.5rem;
-  padding: 2rem;
   font-weight: bold;
+  padding: 2rem;
+  margin: 0;
 `
 const Wrapper = styled.div`
   display: flex;
