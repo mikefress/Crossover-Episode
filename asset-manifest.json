@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crossover-episode/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/crossover-episode/static/js/main.373b70bc.chunk.js",
+    "main.js.map": "/crossover-episode/static/js/main.373b70bc.chunk.js.map",
+    "runtime-main.js": "/crossover-episode/static/js/runtime-main.82b44f21.js",
+    "runtime-main.js.map": "/crossover-episode/static/js/runtime-main.82b44f21.js.map",
+    "static/js/2.7a64fcfc.chunk.js": "/crossover-episode/static/js/2.7a64fcfc.chunk.js",
+    "static/js/2.7a64fcfc.chunk.js.map": "/crossover-episode/static/js/2.7a64fcfc.chunk.js.map",
+    "static/js/3.50b538c8.chunk.js": "/crossover-episode/static/js/3.50b538c8.chunk.js",
+    "static/js/3.50b538c8.chunk.js.map": "/crossover-episode/static/js/3.50b538c8.chunk.js.map",
+    "index.html": "/crossover-episode/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/crossover-episode/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7a64fcfc.chunk.js.LICENSE.txt": "/crossover-episode/static/js/2.7a64fcfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82b44f21.js",
+    "static/js/2.7a64fcfc.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.373b70bc.chunk.js"
+  ]
+}
