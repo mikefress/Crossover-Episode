@@ -1,6 +1,6 @@
 export const initialData = {
   characters: {
-    'character-1': { id: 'character-1', name: 'Steven Universe', picture: '/images/steven_universe.png', showTag: 'SU' },
+    'character-1': { id: 'character-1', name: 'Steven Universe', picture: '../../public/images/steven_universe.png', showTag: 'SU' },
     'character-2': { id: 'character-2', name: 'Rose Quartz', picture: '/images/rose_quartz.png', showTag: 'SU' },
     'character-3': { id: 'character-3', name: 'Pearl', picture: '/images/pearl.png', showTag: 'SU' },
     'character-4': { id: 'character-4', name: 'Garnet', picture: '/images/garnet.png', showTag: 'SU' },
