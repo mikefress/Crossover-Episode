@@ -1,15 +1,15 @@
 export const initialData = {
   characters: {
-    'character-1': { id: 'character-1', name: 'Steven Universe', picture: 'https://static.wikia.nocookie.net/steven-universe/images/1/12/StevenUniverse16_-2-_By_TheOffColors.png/revision/latest?cb=20201130004033', showTag: 'SU' },
-    'character-2': { id: 'character-2', name: 'Rose Quartz', picture: "/images/rose_quartz.png", showTag: 'SU' },
-    'character-3': { id: 'character-3', name: 'Pearl', picture: "/images/pearl.png", showTag: 'SU' },
-    'character-4': { id: 'character-4', name: 'Garnet', picture: "/images/garnet.png", showTag: 'SU' },
-    'character-5': { id: 'character-5', name: 'Amethyst', picture: "/images/amethyst.png", showTag: 'SU' },
-    'character-6': { id: 'character-6', name: 'Mordecai', picture: "/images/mordecai.png", showTag: 'RS' },
-    'character-7': { id: 'character-7', name: 'Rigby', picture: "/images/rigby.png", showTag: 'RS' },
-    'character-8': { id: 'character-8', name: 'Margaret Smith', picture: "/images/margaret.png", showTag: 'RS' },
-    'character-9': { id: 'character-9', name: 'Benson', picture: "/images/benson.png", showTag: 'RS' },
-    'character-10': { id: 'character-10', name: 'Skips', picture: "/images/skips.png", showTag: 'RS' }
+    'character-1': { id: 'character-1', name: 'Steven Universe', picture: '/crossover-episode/images/steven_universe.png', showTag: 'SU' },
+    'character-2': { id: 'character-2', name: 'Rose Quartz', picture: "/crossover-episode/images/rose_quartz.png", showTag: 'SU' },
+    'character-3': { id: 'character-3', name: 'Pearl', picture: "/crossover-episode/images/pearl.png", showTag: 'SU' },
+    'character-4': { id: 'character-4', name: 'Garnet', picture: "/crossover-episode/images/garnet.png", showTag: 'SU' },
+    'character-5': { id: 'character-5', name: 'Amethyst', picture: "/crossover-episode/images/amethyst.png", showTag: 'SU' },
+    'character-6': { id: 'character-6', name: 'Mordecai', picture: "/crossover-episode/images/mordecai.png", showTag: 'RS' },
+    'character-7': { id: 'character-7', name: 'Rigby', picture: "/crossover-episode/images/rigby.png", showTag: 'RS' },
+    'character-8': { id: 'character-8', name: 'Margaret Smith', picture: "/crossover-episode/images/margaret.png", showTag: 'RS' },
+    'character-9': { id: 'character-9', name: 'Benson', picture: "/crossover-episode/images/benson.png", showTag: 'RS' },
+    'character-10': { id: 'character-10', name: 'Skips', picture: "/crossover-episode/images/skips.png", showTag: 'RS' }
   },
   shows: {
     'show-1': {
